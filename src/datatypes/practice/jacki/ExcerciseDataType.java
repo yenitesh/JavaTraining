@@ -1,4 +1,5 @@
-package com;
+package datatypes.practice.jacki;
+
 public class ExcerciseDataType {
 
 	/**

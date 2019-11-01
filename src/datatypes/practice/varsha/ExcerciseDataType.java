@@ -1,4 +1,5 @@
-package com;
+package datatypes.practice.varsha;
+
 public class ExcerciseDataType {
 
 	/**

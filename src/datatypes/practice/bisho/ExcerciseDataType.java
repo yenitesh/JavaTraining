@@ -1,4 +1,4 @@
-package com;
+package datatypes.practice.bisho;
 public class ExcerciseDataType {
 
 	/**

@@ -1,4 +1,4 @@
-package com;
+package javaintroduction.practice;
 
 public class Hello {
 

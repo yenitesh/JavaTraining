@@ -1,4 +1,5 @@
-package com;
+package datatypes.results.com;
+
 public class ExcerciseDataType {
 
 	/**

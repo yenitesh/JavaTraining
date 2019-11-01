@@ -1,4 +1,5 @@
-package com;
+package datatypes.practice.nitesh;
+
 public class ExcerciseDataType {
 
 	/**

@@ -1,4 +1,5 @@
-package com;
+package datatypes.practice.bindu;
+
 public class ExcerciseDataType {
 
 	/**
