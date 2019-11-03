@@ -16,9 +16,8 @@ url:https://www.eclipse.org/downloads/packages/release/photon/r/eclipse-ide-java
 url:https://www.jetbrains.com/idea/download/#section=windows
  -> Community version (FREE One)
 
-4. Git- Code repository for practice and results programs
-url:https://git-scm.com/downloads
-GUI Clients: https://git-scm.com/downloads/guis
+4. GitHub- Code repository for practice and results programs 
+GUI Clients: https://desktop.github.com/
 
 5. Atom - Taking notes
 url:https://atom.io/
