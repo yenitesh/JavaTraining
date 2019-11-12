@@ -14,8 +14,25 @@ public class ExcerciseDataType {
 
 	public static void main( String[] args ){  
  
-		//TODO you need to create your logic here..
-		
+int i = 45;
+double j = 762.54;
+int k = 3;
+double sum = i + j;
+if(i>j && i>k) {
+	System.out.println("i is the greatest");
+}
+if(j>i && j>k){
+	System.out.println("j is greatest");
+}
+if(k>i && k>j){
+	System.out.println("k is greatest");
+}
+if(sum == k) {
+	System.out.println("Sum of i and j is equal to k");
+} else {
+	System.out.println("Sum of i and j is not equal to k");
+}
+
 
 	}
 }
